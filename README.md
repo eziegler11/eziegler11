@@ -1,3 +1,5 @@
+# *Coding in Colorado*
+
 # Hey there, I'm Erich Ziegler 👋
 
 **I am currently seeking a full-time, remote position, as a Full Stack Developer.**
