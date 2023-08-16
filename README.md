@@ -23,13 +23,13 @@ Customize a 3D t-shirt using color, images and openAi. Sole author.
 
 ## 🌐 Connect with Me
 
-- 📧 Email: [Your Email](mailto:erich.ziegler11@gmail.com)
-- 💼 LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/erichziegler/)
+- 📧 [erich.ziegler11@gmail.com](mailto:erich.ziegler11@gmail.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/erichziegler/)
 
 ## 🌱 Fun Facts
 
 - 🏞️ Proudly born and raised in Denver, Colorado, USA
-- 🎮 Currently gaming [World of Warcraft]
+- 🎮 Currently gaming *World of Warcraft*
 
 ## 📊 GitHub Stats
 
@@ -37,6 +37,6 @@ Customize a 3D t-shirt using color, images and openAi. Sole author.
 
 ## 🎵 Currently Playing
 
-[On Repeat](https://youtu.be/q7MbD2Hy8JI)
+[Yotto - Live at Tomorrowland 2022](https://youtu.be/q7MbD2Hy8JI) - On Repeat
 
 Thanks for stopping by! Feel free to reach out and connect.
