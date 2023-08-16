@@ -1,6 +1,6 @@
 # Hey there, I'm Erich Ziegler 👋
 
-I am currently seeking a full-time, remote position, as a Full Stack Developer.
+**I am currently seeking a full-time, remote position, as a Full Stack Developer.**
 
 Born and raised in the beautiful state of Colorado 🏞️. I'm a passionate full stack developer who loves spending my days outdoors on my mountain bike 🚲. When I'm not building apps, you can find me hiking 🥾 one of Colorado’s many trails, rock climbing 🧗🏻 or camping 🏕️, usually accompanied by my dog, Elke 🐶.
 
