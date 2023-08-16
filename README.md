@@ -1,15 +1,13 @@
-# *Coding in Colorado*
-
 # Hey there, I'm Erich Ziegler 👋
 
 **I am currently seeking a full-time, remote position, as a Full Stack Developer.**
 
-Born and raised in the beautiful state of Colorado 🏞️. I'm a passionate full stack developer who loves spending my days outdoors on my mountain bike 🚲. When I'm not building apps, you can find me hiking 🥾 one of Colorado’s many trails, rock climbing 🧗🏻 or camping 🏕️, usually accompanied by my dog, Elke 🐶.
+I'm a passionate full stack developer with experience in React 🧑🏻‍💻. Beyond my professional pursuits, my personal passions mirror my deep connection to Colorado. When I'm not honing my tech skills, I can be found embarking on outdoor adventures. Whether it's conquering mountain trails on bike 🚲 or foot 🥾, scaling rock faces 🧗🏻, or camping beneath the stars 🏕️, my love for the outdoors is palpable. My loyal companion, Elke 🐶, the ever-present canine sidekick, shares in these escapades.
 
 ## 🌟 What I Do
 
 - 🚀 Full Stack Developer
-- 🎨 React + JavaScript
+- 🎨 React + JavaScript + Node.js + Express.js
 - 📚 Effective Communicator
 
 ## 💡 Featured Projects
