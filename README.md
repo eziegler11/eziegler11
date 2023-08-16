@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-https://gifdb.com/gif/yellow-waving-hello-hand-6p1ptjoz34zl421c.html?embed=true
+<img https://gifdb.com/gif/yellow-waving-hello-hand-6p1ptjoz34zl421c.html?embed=true />
 
 <!--
 **eziegler11/eziegler11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
