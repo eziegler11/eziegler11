@@ -1,72 +1,42 @@
-### Hi, welcome to my GitHub 👋. My name is Erich.
+# Hey there, I'm Erich Ziegler 👋
 
 I am currently seeking a full-time, remote position, as a Full Stack Developer.
 
-Lately, I have been working on full stack projects within React.
-
-I am eager to learn more about the developer landscape and the various ways in which one can take their career within the tech industry. 
-
-# Hey there, I'm [Your Name] 👋
-
-Born and raised in the beautiful state of Colorado 🏞️. I'm a passionate [Your Profession/Interest] who loves [Your Hobbies/Interests]. When I'm not [Working/Building], you can find me [Other Activities/Hobbies].
+Born and raised in the beautiful state of Colorado 🏞️. I'm a passionate full stack developer who loves spending my days outdoors on my mountain bike 🚲. When I'm not building apps, you can find me hiking one of Colorado’s many trails, rock climbing or camping, usually accompanied by my dog, Elke.
 
 ## 🌟 What I Do
 
-- 🚀 [Your Profession/Expertise 1]: Brief description of what you do in your field.
-- 🎨 [Your Profession/Expertise 2]: Another area of expertise or interest.
-- 📚 [Your Profession/Expertise 3]: Any other relevant skills or knowledge.
+- 🚀 Full Stack Developer
+- 🎨 React + JavaScript
+- 📚 Effective Communicator
 
 ## 💡 Featured Projects
 
-### [Project Name 1](Link to Project 1)
-Short description of the project and its significance.
+### [E-Commerce CLI](https://github.com/eziegler11/back-end-ecommerce-CL-app)
+Created the back end of an E-Commerce platform utilizing Sequelize. Sole author.
 
-### [Project Name 2](Link to Project 2)
-Brief overview of the project and what you accomplished.
+### [Birders Anonymous](https://github.com/eziegler11/birders-anonymous)
+An app which allows users to hear bird calls via an API connection and discover the weather based on a specific location. Made as a collaboration. My role included JavaScript and backend coding.
 
-### [Project Name 3](Link to Project 3)
-Highlight the key aspects of this project and your role.
+### [Design Your Very Own T-Shirt](https://github.com/eziegler11/shirt-designer)
+Customize a 3D t-shirt using color, images and openAi. Sole author.
 
 ## 🌐 Connect with Me
 
-- 📧 Email: [Your Email](mailto:youremail@example.com)
-- 💼 LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/yourusername/)
-- 🐦 Twitter: [@YourTwitterHandle](https://twitter.com/yourusername)
-- 📷 Instagram: [@YourInstagramHandle](https://www.instagram.com/yourusername/)
+- 📧 Email: [Your Email](mailto:erich.ziegler11@gmail.com)
+- 💼 LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/erichziegler/)
 
 ## 🌱 Fun Facts
 
-- 🏞️ Proudly born and raised in Colorado, USA.
-- 🎉 [Interesting Fact About Yourself]
-- 📖 Currently reading [Book Title] by [Author]
+- 🏞️ Proudly born and raised in Denver, Colorado, USA
+- 🎮 Currently gaming [World of Warcraft]
 
 ## 📊 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=eziegler11&show_icons=true)
 
 ## 🎵 Currently Playing
 
-[Your Favorite Song](Spotify/Apple Music/YouTube link)
+[On Repeat](https://youtu.be/q7MbD2Hy8JI)
 
-Thanks for stopping by! Feel free to reach out and connect. Let's build something amazing together! 🚀
-
----
-
-*Note: Replace the placeholders ([Your Name], [Your Profession/Interest], etc.) with your actual information.*
-
-
-
-<!--
-**eziegler11/eziegler11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Thanks for stopping by! Feel free to reach out and connect.
