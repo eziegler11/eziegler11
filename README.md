@@ -12,14 +12,14 @@ I'm a passionate full stack developer with experience in React. Beyond my profes
 
 ## 💡 Featured Projects
 
-### [E-Commerce CLI](https://github.com/eziegler11/back-end-ecommerce-CL-app)
-Created the back end of an E-Commerce platform utilizing Sequelize. Sole author.
+### [Shop Till You Drop](https://github.com/eziegler11/shop-till-you-drop)
+A full stack e-commerce platform where a user can browse electronics products and add them to a shopping cart. Built using the MERN stack. Sole author.
 
 ### [Birders Anonymous](https://github.com/eziegler11/birders-anonymous)
 An app which allows users to hear bird calls via an API connection and discover the weather based on a specific location. Made as a collaboration. My role included JavaScript and backend coding.
 
-### [Design Your Very Own T-Shirt](https://github.com/eziegler11/shirt-designer)
-Customize a 3D t-shirt using color, images and openAi. Sole author.
+### [E-Commerce CLI](https://github.com/eziegler11/back-end-ecommerce-CL-app)
+Created the back end of an E-Commerce platform utilizing Sequelize. Sole author.
 
 ## 🌐 Connect with Me
 
