@@ -12,6 +12,9 @@ I'm a passionate full stack developer with experience in React. Beyond my profes
 
 ## 💡 Featured Projects
 
+### [Personal Portfolio](https://github.com/eziegler11/current-personal-portfolio)
+My personal portfolio built in React, showcasing my projects, skills and knowledge.
+
 ### [Shop Till You Drop](https://github.com/eziegler11/shop-till-you-drop)
 A full stack e-commerce platform where a user can browse electronics products and add them to a shopping cart. Built using the MERN stack. Sole author.
 
