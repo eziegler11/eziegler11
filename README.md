@@ -1,6 +1,6 @@
 # Hey there, I'm Erich Ziegler 👋
 
-**I am currently seeking a full-time, remote position, as a Full Stack Developer.**
+**I am currently seeking a full-time position as a Full Stack Developer.**
 
 I'm a passionate full stack developer with experience in React. Beyond my professional pursuits, my personal passions mirror my deep connection to Colorado. When I'm not honing my tech skills, I can be found embarking on outdoor adventures. Whether it's conquering mountain trails on bike or foot, scaling rock faces, or camping beneath the stars, my love for the outdoors is palpable. My loyal companion, Elke, the ever-present canine sidekick, shares in these escapades.
 
